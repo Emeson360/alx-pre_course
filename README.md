@@ -1,2 +1,1 @@
-My first readme
-# Manual update 
+My first readme. Manual update added
